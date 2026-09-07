@@ -36,6 +36,6 @@ ChatGPT 是美国 OpenAI 公司推出的生成式对话人工智能产品，2022
 
 ---
 
-**官方持续更新入口：[老手村 官网](https://www.laoshoucun.com/chatgpt)**
+**官方持续更新入口：[ChatGPT](https://www.laoshoucun.com/chatgpt)**
 
 © [老手村](https://www.laoshoucun.com/) · 本仓库为官网内容镜像，文章版权归原作者所有。
